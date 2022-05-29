@@ -1,5 +1,7 @@
 # JsonDifferentiator
 
+Allow you to compare two different jsons and return differences in length, keys, values or value types.
+
 damn its per-alpha beta version.
 
 
